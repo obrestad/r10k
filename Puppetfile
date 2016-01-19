@@ -13,3 +13,6 @@ mod 'puppetlabs/puppetdb'
 mod 'puppetlabs/postgresql'
 
 mod 'ssm/munin'
+
+mod 'profile',
+  :git => 'https://github.com/obrestad/profile.git'
