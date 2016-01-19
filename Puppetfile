@@ -1,0 +1,15 @@
+forge "http://forge.puppetlabs.com"
+
+mod 'puppetlabs/apache'
+mod 'puppetlabs/apt'
+mod 'puppetlabs/concat'
+mod 'puppetlabs/firewall'
+mod 'puppetlabs/inifile'
+mod 'puppetlabs/ntp'
+mod 'puppetlabs/stdlib'
+mod 'puppetlabs/xinetd'
+mod 'puppetlabs/java'
+mod 'puppetlabs/puppetdb'
+mod 'puppetlabs/postgresql'
+
+mod 'ssm/munin'
