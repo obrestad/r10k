@@ -1,1 +1,1 @@
-notify { "ABC": }
+notify { "$environment": }
