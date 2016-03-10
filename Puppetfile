@@ -12,6 +12,7 @@ mod 'puppetlabs/xinetd'
 mod 'puppetlabs/java'
 mod 'puppetlabs/puppetdb'
 mod 'puppetlabs/postgresql'
+mod 'puppetlabs/vcsrepo'
 
 mod 'ssm/munin'
 mod 'saz/sudo'
