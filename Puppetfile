@@ -17,5 +17,7 @@ mod 'ssm/munin'
 mod 'saz/sudo'
 mod 'saz/ssh'
 
+mod 'danzilio/letsencrypt'
+
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git'
