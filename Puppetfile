@@ -18,6 +18,8 @@ mod 'ssm/munin'
 mod 'saz/sudo'
 mod 'saz/ssh'
 
+mod 'camptocamp/postfix'
+
 mod 'danzilio/letsencrypt'
 
 mod 'profile',
