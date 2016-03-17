@@ -25,3 +25,6 @@ mod 'danzilio/letsencrypt'
 
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git'
+
+mod 'roundcube',
+  :git => 'https://github.com/tohuwabohu/puppet-roundcube.git'
