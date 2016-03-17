@@ -25,9 +25,3 @@ mod 'danzilio/letsencrypt'
 
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git'
-
-mod 'roundcube',
-  :git => 'https://github.com/tohuwabohu/puppet-roundcube.git'
-mod 'camptocamp/archive'
-mod 'willdurand/composer'
-mod 'ripienaar/module_data'
