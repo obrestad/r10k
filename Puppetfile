@@ -28,3 +28,6 @@ mod 'profile',
 
 mod 'roundcube',
   :git => 'https://github.com/tohuwabohu/puppet-roundcube.git'
+mod 'camptocamp/archive'
+mod 'willdurand/composer'
+mod 'ripienaar/module_data'
