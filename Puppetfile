@@ -18,6 +18,8 @@ mod 'ssm/munin'
 mod 'saz/sudo'
 mod 'saz/ssh'
 
+mod 'ajjahn/samba'
+
 mod 'camptocamp/augeas'
 mod 'camptocamp/postfix'
 
