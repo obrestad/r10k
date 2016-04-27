@@ -29,3 +29,6 @@ mod 'profile',
 
 mod 'java',
   :git => 'https://github.com/puppetlabs/puppetlabs-java.git'
+
+mod 'archive',
+  :git => 'https://github.com/voxpupuli/puppet-archive'
