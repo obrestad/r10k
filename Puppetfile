@@ -9,7 +9,6 @@ mod 'puppetlabs/mysql'
 mod 'puppetlabs/ntp'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/xinetd'
-mod 'puppetlabs/java'
 mod 'puppetlabs/puppetdb'
 mod 'puppetlabs/postgresql'
 mod 'puppetlabs/vcsrepo'
@@ -27,3 +26,6 @@ mod 'danzilio/letsencrypt'
 
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git'
+
+mod 'java',
+  :git => 'https://github.com/puppetlabs/puppetlabs-java.git'
