@@ -24,6 +24,8 @@ mod 'camptocamp/postfix'
 
 mod 'danzilio/letsencrypt'
 
+mod 'shoekstra/owncloud'
+
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git'
 
