@@ -23,10 +23,7 @@ mod 'ajjahn/samba'
 mod 'camptocamp/augeas'
 mod 'camptocamp/postfix'
 
-#mod 'danzilio/letsencrypt'
-mod 'certbot',
-  :git => 'https://github.com/danzilio/puppet-letsencrypt.git',
-  :branch => 'certbot'
+mod 'danzilio/letsencrypt'
 
 mod 'shoekstra/owncloud'
 
