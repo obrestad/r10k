@@ -25,6 +25,8 @@ mod 'camptocamp/postfix'
 
 mod 'danzilio/letsencrypt'
 
+mod 'example42/php'
+
 mod 'owncloud',
   :git => 'https://github.com/shoekstra/puppet-owncloud',
   :commit => 'ec5e96f4f16551c2bdc1659aa1fb6400f02ae662'
