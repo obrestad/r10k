@@ -25,9 +25,7 @@ mod 'camptocamp/postfix'
 
 mod 'danzilio/letsencrypt'
 
-mod 'owncloud',
-  :git => 'https://github.com/shoekstra/puppet-owncloud',
-  :commit => 'ec5e96f4f16551c2bdc1659aa1fb6400f02ae662'
+mod 'shoekstra/owncloud'
 
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git'
