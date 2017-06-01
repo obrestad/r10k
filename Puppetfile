@@ -20,6 +20,8 @@ mod 'saz/ssh'
 
 mod 'ajjahn/samba'
 
+mod 'andschwa/unattended_upgrades'
+
 mod 'camptocamp/augeas'
 mod 'camptocamp/postfix'
 
