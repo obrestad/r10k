@@ -4,6 +4,7 @@ mod 'puppetlabs/apache'
 mod 'puppetlabs/apt'
 mod 'puppetlabs/concat'
 mod 'puppetlabs/firewall'
+mod 'puppetlabs/git'
 mod 'puppetlabs/inifile'
 mod 'puppetlabs/lvm'
 mod 'puppetlabs/mysql'
@@ -20,6 +21,7 @@ mod 'saz/ssh'
 
 mod 'ajjahn/samba'
 
+mod 'puppet/r10k'
 mod 'puppet/unattended_upgrades'
 
 mod 'camptocamp/augeas'
