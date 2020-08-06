@@ -1,5 +1,11 @@
 forge "http://forge.puppetlabs.com"
 
+mod 'saz/ssh'
+mod 'saz/sudo'
+
+mod 'puppet/r10k'
+mod 'puppet/unattended_upgrades'
+
 mod 'puppetlabs/apache'
 mod 'puppetlabs/apt'
 mod 'puppetlabs/concat'
@@ -14,9 +20,6 @@ mod 'puppetlabs/xinetd'
 mod 'puppetlabs/puppetdb'
 mod 'puppetlabs/postgresql'
 mod 'puppetlabs/vcsrepo'
-
-mod 'puppet/r10k'
-mod 'puppet/unattended_upgrades'
 
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git',
