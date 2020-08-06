@@ -1,5 +1,8 @@
 forge "http://forge.puppetlabs.com"
 
+mod 'camptocamp/augeas'
+mod 'camptocamp/postfix'
+
 mod 'saz/ssh'
 mod 'saz/sudo'
 
