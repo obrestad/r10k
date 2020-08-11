@@ -1,5 +1,7 @@
 forge "http://forge.puppetlabs.com"
 
+mod 'ajjahn/samba'
+
 mod 'camptocamp/augeas'
 mod 'camptocamp/postfix'
 
