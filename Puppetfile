@@ -4,9 +4,7 @@ mod 'ajjahn/samba'
 
 mod 'camptocamp/augeas'
 mod 'camptocamp/postfix'
-
-mod 'saz/ssh'
-mod 'saz/sudo'
+mod 'danzilio/letsencrypt'
 
 mod 'puppet/r10k'
 mod 'puppet/unattended_upgrades'
@@ -26,6 +24,11 @@ mod 'puppetlabs/xinetd'
 mod 'puppetlabs/puppetdb'
 mod 'puppetlabs/postgresql'
 mod 'puppetlabs/vcsrepo'
+
+mod 'saz/ssh'
+mod 'saz/sudo'
+
+mod 'shoekstra/owncloud'
 
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git',
