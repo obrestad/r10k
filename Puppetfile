@@ -27,6 +27,7 @@ mod 'puppetlabs/vcsrepo'
 
 mod 'saz/ssh'
 mod 'saz/sudo'
+mod 'ssm/munin'
 
 mod 'shoekstra/owncloud'
 
