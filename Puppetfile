@@ -4,8 +4,8 @@ mod 'ajjahn/samba'
 
 mod 'camptocamp/augeas'
 mod 'camptocamp/postfix'
-mod 'danzilio/letsencrypt'
 
+mod 'puppet/letsencrypt'
 mod 'puppet/r10k'
 mod 'puppet/unattended_upgrades'
 
