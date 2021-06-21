@@ -10,7 +10,7 @@ mod 'puppet/nginx'
 mod 'puppet/r10k'
 mod 'puppet/unattended_upgrades'
 
-mod 'puppetlabs/apache'
+mod 'puppetlabs/apache', "6.2.0"
 mod 'puppetlabs/apt'
 mod 'puppetlabs/concat'
 mod 'puppetlabs/docker'
