@@ -19,7 +19,7 @@ mod 'puppetlabs/git'
 mod 'puppetlabs/inifile'
 mod 'puppetlabs/lvm'
 mod 'puppetlabs/mailalias_core'
-mod 'puppetlabs/mysql'
+mod 'puppetlabs/mysql', "11.0.3"
 mod 'puppetlabs/ntp'
 mod 'puppetlabs/puppet_agent'
 mod 'puppetlabs/puppetdb'
