@@ -5,9 +5,12 @@ mod 'ajjahn/samba'
 mod 'camptocamp/augeas'
 mod 'camptocamp/postfix'
 
+mod 'kogitoapp-chronograf', '1.0.2'
+
 mod 'puppet/letsencrypt'
 mod 'puppet/nginx'
 mod 'puppet/r10k'
+mod 'puppet-telegraf', '4.1.0'
 mod 'puppet/unattended_upgrades'
 
 mod 'puppetlabs/apache', "6.2.0"
@@ -27,6 +30,8 @@ mod 'puppetlabs/postgresql'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/vcsrepo'
 mod 'puppetlabs/xinetd'
+
+mod 'quadriq-influxdb', '0.2.2'
 
 mod 'saz/ssh'
 mod 'saz/sudo'
