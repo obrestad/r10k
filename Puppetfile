@@ -31,13 +31,14 @@ mod 'puppetlabs/stdlib'
 mod 'puppetlabs/vcsrepo'
 mod 'puppetlabs/xinetd'
 
-mod 'quadriq-influxdb', '0.2.2'
 
 mod 'saz/ssh'
 mod 'saz/sudo'
 mod 'ssm/munin'
 
 mod 'shoekstra/owncloud'
+
+mod 'vpgrp-influxdb', '1.5.0'
 
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git',
