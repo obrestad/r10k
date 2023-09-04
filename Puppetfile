@@ -44,4 +44,5 @@ mod 'profile',
   :git => 'https://github.com/obrestad/profile.git',
   :branch => 'puppet6'
 mod 'role',
-  :git => 'https://github.com/obrestad/role.git'
+  :git => 'https://github.com/obrestad/role.git',
+  :branch => 'main'
