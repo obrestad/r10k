@@ -40,6 +40,9 @@ mod 'shoekstra/owncloud'
 
 mod 'vpgrp-influxdb', '1.5.0'
 
+mod 'shiftleader',
+  :git => 'https://github.com/shiftleader2/puppet-shiftleader',
+  :branch => 'main'
 mod 'profile',
   :git => 'https://github.com/obrestad/profile.git',
   :branch => 'puppet6'
