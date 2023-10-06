@@ -7,6 +7,7 @@ mod 'camptocamp/postfix'
 
 mod 'kogitoapp-chronograf', '1.0.2'
 
+mod 'puppet/dhcp', '5.0.1'
 mod 'puppet/letsencrypt'
 mod 'puppet/nginx'
 mod 'puppet/r10k'
