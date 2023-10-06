@@ -32,12 +32,15 @@ mod 'puppetlabs/stdlib'
 mod 'puppetlabs/vcsrepo'
 mod 'puppetlabs/xinetd'
 
-
 mod 'saz/ssh'
 mod 'saz/sudo'
 mod 'ssm/munin'
 
 mod 'shoekstra/owncloud'
+
+mod 'tftp',
+  :git => 'https://github.com/puppetlabs/puppetlabs-tftp',
+  :commit => '91f8a291ea4b6ff366c0dcf9f2b09b9cd8841568'
 
 mod 'vpgrp-influxdb', '1.5.0'
 
