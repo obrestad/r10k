@@ -38,6 +38,8 @@ mod 'ssm/munin'
 
 mod 'shoekstra/owncloud'
 
+mod 'zehweh/netplan', '2.0.0'
+
 mod 'libvirt',
   :git => 'https://github.com/ntnusky/puppet-libvirt.git',
   :branch => 'jammy'
