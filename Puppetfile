@@ -5,6 +5,8 @@ mod 'ajjahn/samba'
 mod 'camptocamp/augeas'
 mod 'camptocamp/postfix'
 
+mod 'inkblot/ipcalc', '2.2.0' # 03.03.2017
+
 mod 'kogitoapp-chronograf', '1.0.2'
 
 mod 'puppet/dhcp', '5.0.1'
