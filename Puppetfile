@@ -40,10 +40,10 @@ mod 'ssm/munin'
 
 mod 'shoekstra/owncloud'
 
-mod 'thias-bind', '0.5.7'
-
 mod 'zehweh/netplan', '2.0.0'
 
+mod 'bind',
+  :git => 'https://github.com/obrestad/puppet-bind.git'
 mod 'libvirt',
   :git => 'https://github.com/ntnusky/puppet-libvirt.git',
   :branch => 'jammy'
