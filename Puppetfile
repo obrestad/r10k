@@ -40,6 +40,8 @@ mod 'ssm/munin'
 
 mod 'shoekstra/owncloud'
 
+mod 'thias-bind', '0.5.7'
+
 mod 'zehweh/netplan', '2.0.0'
 
 mod 'libvirt',
