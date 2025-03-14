@@ -43,7 +43,8 @@ mod 'shoekstra/owncloud'
 mod 'zehweh/netplan', '2.0.0'
 
 mod 'bind',
-  :git => 'https://github.com/obrestad/puppet-bind.git'
+  :git => 'https://github.com/obrestad/puppet-bind.git',
+  :branch => 'master'
 mod 'libvirt',
   :git => 'https://github.com/ntnusky/puppet-libvirt.git',
   :branch => 'jammy'
