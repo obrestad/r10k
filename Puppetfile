@@ -17,7 +17,7 @@ mod 'puppet-telegraf', '4.1.0'
 mod 'puppet/unattended_upgrades'
 
 mod 'puppetlabs/apache', '11.1.0'
-mod 'puppetlabs/apt'
+mod 'puppetlabs/apt', '11.4.1'
 mod 'puppetlabs/concat'
 mod 'puppetlabs/docker'
 mod 'puppetlabs/firewall'
