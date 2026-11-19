@@ -11,7 +11,7 @@ mod 'kogitoapp-chronograf', '1.0.2'
 
 mod 'puppet/dhcp', '5.0.1'
 mod 'puppet/letsencrypt'
-mod 'puppet/nginx', 8.4.0
+mod 'puppet/nginx', '8.4.0'
 mod 'puppet/r10k'
 mod 'puppet-telegraf', '4.1.0'
 mod 'puppet/unattended_upgrades'
